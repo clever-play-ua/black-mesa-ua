@@ -48,7 +48,7 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "publishEditFolder": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/black-mesa-ua-128x128.png",
     "mbrsiteDomain": "il08bpkfoz",
     "usedWebp": false,
