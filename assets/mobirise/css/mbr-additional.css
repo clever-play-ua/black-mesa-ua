@@ -713,6 +713,19 @@ a {
 .cid-uAkGqWKKOS .mbr-section-btn {
   color: #e47125;
 }
+.cid-uAlt7XpW6o {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uAlt7XpW6o .video-wrapper iframe {
+  width: 100%;
+}
+.cid-uAlt7XpW6o .mbr-section-title,
+.cid-uAlt7XpW6o .mbr-section-subtitle,
+.cid-uAlt7XpW6o .mbr-text {
+  text-align: center;
+}
 .cid-uAkOmHUgLW {
   padding-top: 5rem;
   padding-bottom: 5rem;
